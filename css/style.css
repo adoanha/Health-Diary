@@ -9903,3 +9903,14 @@ span.customSelect.changed {
 #sendmessage.show, #errormessage.show, .show {
 	display:block;
 }
+
+
+/* PERSONAL STYLING I ADDED */
+
+.quote, .quote-author {
+    text-align: center;
+}
+
+.quote {
+    font-size: 36px;
+}
